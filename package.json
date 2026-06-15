@@ -1,0 +1,8 @@
+{
+  "name": "homework-repo-tool-root",
+  "version": "1.0.0",
+  "description": "Root runner for Homework Repo Web UI",
+  "scripts": {
+    "start": "npm start --prefix homework-repo-web"
+  }
+}

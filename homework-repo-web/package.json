@@ -1,0 +1,12 @@
+{
+  "name": "homework-repo-web",
+  "version": "1.0.0",
+  "description": "Homework Repo Tool Web UI",
+  "scripts": {
+    "start": "./start.sh",
+    "dev": "./start.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
