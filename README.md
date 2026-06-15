@@ -104,7 +104,7 @@ ISC License
 
 ## 👨‍💻 Tác Giả
 
-Được tạo bởi cộng đồng học tập
+Được tạo bởi TNDUCK
 
 ## ❓ Hỗ Trợ
 
